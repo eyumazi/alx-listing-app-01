@@ -27,15 +27,23 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
       shower: "3",
       occupants: "4-6",
     },
-    image: [    
+    image: [
       "/assets/Detail Images/image 19.svg",
       "/assets/Detail Images/image 21.svg",
       "/assets/Detail Images/image 22.svg",
       "/assets/Detail Images/image 24.svg",
     ],
     discount: "",
+    iconsUrl: [
+      "/assets/Icons/bed 1.svg",
+      "/assets/Icons/bathtub 1.svg",
+      "/assets/Icons/people 1.svg",
+    ],
     description: [
-      "Experience luxury living in Bali's Seminyak with this stunning villa featuring a private pool, free parking, and top-rated comfort (4.89 stars).",
+      "Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’Feel like exploring the Dominican? Start the day with a hike on one of Playa Moron’s many trails. Weave your way around the gated community to find secluded sandy coves for swimming and paddleboarding. When you’re ready to chill with friends, the beach house pool awaits. Spend the night entertaining in the outdoor lounge, sipping drinks in the hot tub, and gazing out over incredible ocean views.",
+      "The Space",
+      "BEDROOM & BATHROOM",
+      "• Bedroom 1 - Primary: King size bed, Ensuite bathroom with stand-alone rain shower, Dual vanity, Walk-in closet, Television, Sofa, Deck, Balcony, Ocean view",
       "Perfect for families or groups seeking a premium getaway at $3200/night.",
     ],
   },
