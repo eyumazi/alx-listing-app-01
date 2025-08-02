@@ -133,7 +133,6 @@ const Header = () => {
           </div>
         </div>
         <hr className="opacity-5" />
-        <FiltererContainer />
       </header>
     </>
   );
